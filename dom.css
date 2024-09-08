@@ -1,0 +1,58 @@
+
+body{
+    background-color:rgb(221, 221, 221) ;
+    /* padding: 10px; */
+    text-align: center;
+}
+.container{
+    /* text-align: center; */
+    background-color: rgb(54, 47, 81);
+    border-radius: 15px;
+    padding: 15px;
+    height: 610px;
+
+}
+.head{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
+    width: 170px;
+    text-align: center;
+    height: 17.7em;
+    border-radius: 9px;
+    margin: 0 auto;
+    margin-top: 9.4em;
+
+}
+.inner{
+    background-color: rgb(54, 47, 81);
+    padding: 1px;
+    height: 17.56em;
+    border-radius: 9px;
+}
+
+.list{
+    transition: 2s;
+  border-radius: 9px;
+}
+.lis{
+    padding:13px
+}
+#football{
+    margin-top: -6px;
+}
+
+#football,#basketball,#tennis,#golf,#boxing {
+    transition: 0.2s;
+    list-style-type: none;
+    background-color: rgb(255, 255, 255);
+    color: rgb(54, 47, 81);
+    margin-right: 11px;
+    margin-left: -30px;
+    border: 4px solid rgb(54, 47, 81);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 9px;
+    /* margin-bottom: -1px; */
+   /* text-align: center; */
+   /* margin-top: 0px; */
+}
